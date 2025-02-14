@@ -1,2 +1,6 @@
 data
 Demon_Slayer
+env
+.venv
+output.jpg
+uploaded_image.jpg

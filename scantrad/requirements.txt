@@ -1,0 +1,30 @@
+# 📌 Bibliothèques Python de base
+numpy==1.26.4
+pandas==2.2.0
+
+# 📌 Manipulation et traitement d'images
+opencv-python==4.11.0.86
+pillow==11.1.0
+
+# 📌 OCR (Reconnaissance de texte)
+pytesseract==0.3.13
+
+# 📌 Deep Learning (YOLOv5 & NLP)
+torch==2.6.0+cpu
+torchvision==0.17.0+cpu
+transformers==4.37.0
+sentencepiece==0.1.99  # Nécessaire pour le modèle de traduction
+
+# 📌 YOLOv5 (détection des bulles)
+ultralytics==8.3.75  # Version compatible avec ta config
+
+# 📌 Interface utilisateur (Streamlit)
+streamlit==1.32.2
+
+# 📌 Vérification des types MIME
+mimetypes
+
+# 📌 Outils divers
+tqdm==4.66.1
+requests==2.31.0
+chardet==5.2.0
